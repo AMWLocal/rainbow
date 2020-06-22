@@ -1,0 +1,32 @@
+.red{
+    color: red;
+}
+.orange{
+    color: orange;
+}
+.yellow{
+    color:yellow;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+.indigo{
+    color: indigo;
+}
+.violet{
+    color: violet;
+}
+body{
+    background-color: black;
+  
+}
+h1{
+    font-weight: 900;
+    color: white;
+}
+.colors{
+    font-weight: bold;
+}
